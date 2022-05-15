@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nurdle/static/css/main.eec34a0c.css",
-    "main.js": "/nurdle/static/js/main.3e3a7ace.js",
-    "static/js/787.b7ab0ec9.chunk.js": "/nurdle/static/js/787.b7ab0ec9.chunk.js",
-    "static/media/logo.svg": "/nurdle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/nurdle/index.html",
-    "main.eec34a0c.css.map": "/nurdle/static/css/main.eec34a0c.css.map",
-    "main.3e3a7ace.js.map": "/nurdle/static/js/main.3e3a7ace.js.map",
-    "787.b7ab0ec9.chunk.js.map": "/nurdle/static/js/787.b7ab0ec9.chunk.js.map"
+    "main.css": "/static/css/main.eec34a0c.css",
+    "main.js": "/static/js/main.32ee1bf9.js",
+    "static/js/787.b7ab0ec9.chunk.js": "/static/js/787.b7ab0ec9.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.eec34a0c.css.map": "/static/css/main.eec34a0c.css.map",
+    "main.32ee1bf9.js.map": "/static/js/main.32ee1bf9.js.map",
+    "787.b7ab0ec9.chunk.js.map": "/static/js/787.b7ab0ec9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eec34a0c.css",
-    "static/js/main.3e3a7ace.js"
+    "static/js/main.32ee1bf9.js"
   ]
 }
